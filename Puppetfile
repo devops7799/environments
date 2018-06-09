@@ -26,6 +26,9 @@ mod 'puppetlabs-ntp',
    :git => 'https://github.com/devops7799/testrepo.git',
    :branch=> 'master'
 
+ mod 'apache',
+   :git => 'https://github.com/devops7799/apache.git',
+   :branch=> 'master'
 
 # A module from Github pre-packaged tarball
 # mod 'puppetlabs-apache', '0.6.0', :github_tarball => 'puppetlabs/puppetlabs-apache'
