@@ -17,6 +17,6 @@ mod 'testrepo',
    :branch=> 'master'
 
 mod 'puppetlabs-apache','1.11.0'
-mod 'puppetlabs-mysql,'3.10.0'
+mod 'puppetlabs-mysql','3.10.0'
 mod 'puppetlabs-concat'
 mod 'mayflower-php','4.0.0-beta1'
